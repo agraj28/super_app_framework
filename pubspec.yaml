@@ -65,6 +65,8 @@ dev_dependencies:
   location: ^4.4.0
   geolocator: ^9.0.2
   flutter_geocoder: ^0.2.2-nullsafety
+  devicelocale: ^0.5.4
+  package_info: ^2.0.2
 
 
   # A powerful Http client for Dart

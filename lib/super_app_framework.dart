@@ -7,8 +7,10 @@ export 'package:json_serializable/json_serializable.dart';
 
 // helpers file
 export 'src/helpers/app_directory.dart';
+export 'src/core/services/framework_service_helper.dart';
 export 'src/modules/common/models/app_credential.dart';
 export 'src/util/util.dart';
+export 'src/util/system_info_helpers.dart';
 export 'src/helpers/extensions.dart';
 
 // theme Colors
