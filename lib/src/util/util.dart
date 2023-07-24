@@ -6,8 +6,10 @@ import 'package:device_info/device_info.dart';
 enum DioClientType { TOKEN_DIO, DEFAULT_DIO, SSL_PINNED_DIO }
 
 enum ThemeModuleType {
+  // ignore: constant_identifier_names
   Home,
-  Type,
+  // ignore: constant_identifier_names
+  Type
 }
 
 enum ThemeType { Dark, Light }
