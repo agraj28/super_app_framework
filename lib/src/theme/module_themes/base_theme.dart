@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../../super_app_framework.dart';
+import '../../super_app_method_channel/super_app_framework.dart';
 import '../../theme/main_themes/dark_theme.dart';
 import '../../theme/main_themes/light_theme.dart';
 import 'super_app_light_theme.dart';
